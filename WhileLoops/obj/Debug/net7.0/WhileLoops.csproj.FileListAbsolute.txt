@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/bin/Debug/net7.0/WhileLoops
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/bin/Debug/net7.0/WhileLoops.deps.json
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/bin/Debug/net7.0/WhileLoops.runtimeconfig.json
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/bin/Debug/net7.0/WhileLoops.dll
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/bin/Debug/net7.0/WhileLoops.pdb
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfo.cs
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.dll
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/refint/WhileLoops.dll
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.pdb
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/WhileLoops.genruntimeconfig.cache
+/Users/carolinesund/Projects/WhileLoops/WhileLoops/obj/Debug/net7.0/ref/WhileLoops.dll
